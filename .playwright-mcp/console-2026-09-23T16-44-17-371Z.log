@@ -1,0 +1,26 @@
+[  176550ms] [LOG] input.search-box-text 1 @ :4
+[  176550ms] [LOG]    0 <input type="text" class="search-box-text ui-autocomplete-input" id="small-searchterms" autocomplete="off" value="Search store" name="q"> @ :7
+[  176551ms] [LOG] input[name="q"] 1 @ :4
+[  176552ms] [LOG]    0 <input type="text" class="search-box-text ui-autocomplete-input" id="small-searchterms" autocomplete="off" value="Search store" name="q"> @ :7
+[  176552ms] [LOG] input[type="text"][value=""] 1 @ :4
+[  176553ms] [LOG]    0 <input id="newsletter-email" name="NewsletterEmail" type="text" value=""> @ :7
+[  176554ms] [LOG] input[type="text"] 2 @ :4
+[  176555ms] [LOG]    0 <input type="text" class="search-box-text ui-autocomplete-input" id="small-searchterms" autocomplete="off" value="Search store" name="q"> @ :7
+[  176556ms] [LOG]    1 <input id="newsletter-email" name="NewsletterEmail" type="text" value=""> @ :7
+[  176556ms] [LOG] textarea 0 @ :4
+[  176557ms] [LOG] input 15 @ :4
+[  176557ms] [LOG]    0 <input type="text" class="search-box-text ui-autocomplete-input" id="small-searchterms" autocomplete="off" value="Search store" name="q"> @ :7
+[  176557ms] [LOG]    1 <input type="submit" class="button-1 search-box-button" value="Search"> @ :7
+[  176557ms] [LOG]    2 <input id="newsletter-email" name="NewsletterEmail" type="text" value=""> @ :7
+[  176557ms] [LOG]    3 <input type="button" value="Subscribe" id="newsletter-subscribe-button" class="button-1 newsletter-subscribe-button"> @ :7
+[  176558ms] [LOG]    4 <input id="pollanswers-1" type="radio" name="pollanswers-1" value="1"> @ :7
+[  176558ms] [LOG]    5 <input id="pollanswers-2" type="radio" name="pollanswers-1" value="2"> @ :7
+[  176558ms] [LOG]    6 <input id="pollanswers-3" type="radio" name="pollanswers-1" value="3"> @ :7
+[  176558ms] [LOG]    7 <input id="pollanswers-4" type="radio" name="pollanswers-1" value="4"> @ :7
+[  176558ms] [LOG]    8 <input type="button" value="Vote" id="vote-poll-1" class="button-2 vote-poll-button"> @ :7
+[  176559ms] [LOG]    9 <input type="button" value="Add to cart" class="button-2 product-box-add-to-cart-button" onclick="AjaxCart.addproducttocart_catalog('/addproducttocart/catalog/2/1/1    ');return false;"> @ :7
+[  176559ms] [LOG]    10 <input type="button" value="Add to cart" class="button-2 product-box-add-to-cart-button" onclick="AjaxCart.addproducttocart_catalog('/addproducttocart/catalog/31/1/1    ');return false;"> @ :7
+[  176559ms] [LOG]    11 <input type="button" value="Add to cart" class="button-2 product-box-add-to-cart-button" onclick="AjaxCart.addproducttocart_catalog('/addproducttocart/catalog/72/1/1    ');return false;"> @ :7
+[  176559ms] [LOG]    12 <input type="button" value="Add to cart" class="button-2 product-box-add-to-cart-button" onclick="AjaxCart.addproducttocart_catalog('/addproducttocart/catalog/16/1/1    ');return false;"> @ :7
+[  176559ms] [LOG]    13 <input type="button" value="Add to cart" class="button-2 product-box-add-to-cart-button" onclick="AjaxCart.addproducttocart_catalog('/addproducttocart/catalog/74/1/1    ');return false;"> @ :7
+[  176560ms] [LOG]    14 <input type="button" value="Add to cart" class="button-2 product-box-add-to-cart-button" onclick="AjaxCart.addproducttocart_catalog('/addproducttocart/catalog/75/1/1    ');return false;"> @ :7
