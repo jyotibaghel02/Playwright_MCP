@@ -3,7 +3,7 @@ import ExcelJS from 'exceljs';
 import { EmployeePage } from '../pages/EmployeePage';
 import { LoginPage } from '../pages/LoginPage';
 
-test.only('login results match every row in the Excel test data', async ({ browser }) => {
+test('login results match every row in the Excel test data', async ({ browser }) => {
   const workbook = new ExcelJS.Workbook();
   await workbook.xlsx.readFile('test-data/excelData.xlsx');
 

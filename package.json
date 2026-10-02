@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test:sanity": "playwright test --grep @sanity",
-    "test:regression": "playwright test --grep @regression"
+    "test:e2e": "playwright test --grep @e2e"
+    
   },
   "keywords": [],
   "author": "",

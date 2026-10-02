@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('search computer, add first product to cart, and verify success message', async ({ page }) => {
+test('search computer, add first product to cart, and verify success message @e2e', async ({ page }) => {
   await page.goto('https://demowebshop.tricentis.com/');
 
   await page.locator('input.search-box-text').fill('computer');
